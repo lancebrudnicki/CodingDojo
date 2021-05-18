@@ -1,0 +1,26 @@
+.search{
+font-size: 15pt;
+color: seagreen;
+width: 100pt;
+border: 1px solid black;
+margin: 10px 40px;
+border-radius: 200px;
+}
+
+.plus{
+background-color:seagreen;
+font-size: 20pt;
+margin: 10px 40px;
+border-radius: 50%;
+color: white;
+}
+
+.create{
+box-shadow: black 4px 4px 4px;
+margin: 10px 40px;
+border: 2px solid black;
+width: 130px;
+background-color: cornflowerblue;
+color:white
+
+}
